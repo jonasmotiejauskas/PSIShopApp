@@ -108,7 +108,7 @@ namespace PSIShopApp
             }
         }
 
-        //prototipui only, tikrame projekte butu ne konsoline programa, todel pasirinkimas nebutu bool.
+        // prototipui only, tikrame projekte butu ne konsoline programa, todel pasirinkimas nebutu bool.
         public bool PasirinktiLaikotarpi(string pradzia, string pabaiga)
         {
             bool geraData = true;
